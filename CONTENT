@@ -1,0 +1,51 @@
+CORE JAVA CONTENT
+================================================================
+SECTION 1: INTRODUCTION TO PROGRAMMING
+================================================================
+• Introduction to Java
+• JDK Installation
+• Keywords, Identifiers, Variables
+• Operators
+• Methods, Functions
+• Flow Control Statements
+• Arrays
+• Strings
+• Interactive Program in Java using Scanner
+
+================================================================
+SECTION 2: OBJECT ORIENTED PROGRAMMING SYSTEM (OOPS)
+================================================================
+• Classes and Objects
+• Object Creation
+• Reference Variables
+• Global and Local Variables
+• Constructors
+• Aggregation
+• Composition
+• Inheritance
+• Method Overloading
+• Method Overriding
+• Abstract Classes
+• Interfaces
+• Typecasting
+• JVM Architecture
+• Polymorphism
+• Abstraction
+• Java Packages
+• Access Specifiers
+
+================================================================
+SECTION 3: JAVA BUILT-IN PACKAGES AND API
+================================================================
+• Overview of Java API
+• Object Class
+• String, StringBuffer, and StringBuilder
+• Exception Handling
+• Threads and Multithreading
+• Wrapper Classes
+• Data Structures
+• Java Collection Frameworks
+• File Handling
+• Serialization
+• Garbage Collection
+• Encapsulation
